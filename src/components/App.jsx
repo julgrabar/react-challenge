@@ -2,6 +2,7 @@ import { ThemeProvider } from "styled-components";
 
 import { Container } from "./container/Container.styled";
 import { Header } from "./header/Header";
+import { Footer } from "./footer/Footer";
 import { GlobalStyles } from "./container/Global";
 import { StrictMode } from "react";
 import { CardCollection } from "./card-collection/CardCollection";
@@ -26,6 +27,7 @@ export const App = () => {
       <Container>
         <CardCollection items={cards} />
       </Container>
+      <Footer />
     </>
     </ThemeProvider>
   );
