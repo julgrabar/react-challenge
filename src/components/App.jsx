@@ -1,5 +1,3 @@
-import { ThemeProvider } from "styled-components";
-
 import { Container } from "./container/Container.styled";
 import { Header } from "./header/Header";
 import { Footer } from "./footer/Footer";
