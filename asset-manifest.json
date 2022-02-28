@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/react-challenge/static/css/main.7acaea2f.css",
-    "main.js": "/react-challenge/static/js/main.1e564c65.js",
-    "static/js/787.6b7abe35.chunk.js": "/react-challenge/static/js/787.6b7abe35.chunk.js",
+    "main.js": "/react-challenge/static/js/main.7873e62b.js",
+    "static/media/logo.svg": "/react-challenge/static/media/logo.3c5a854404daac9e68209a04cf4dfbbe.svg",
+    "static/media/logo_white.svg": "/react-challenge/static/media/logo_white.be2e01a244e84e6d90451fe1b52e1fd5.svg",
+    "static/media/illustration-mockups.svg": "/react-challenge/static/media/illustration-mockups.7b6cb4d9270f53c0f45bbf842e8ce077.svg",
     "index.html": "/react-challenge/index.html",
     "main.7acaea2f.css.map": "/react-challenge/static/css/main.7acaea2f.css.map",
-    "main.1e564c65.js.map": "/react-challenge/static/js/main.1e564c65.js.map",
-    "787.6b7abe35.chunk.js.map": "/react-challenge/static/js/787.6b7abe35.chunk.js.map"
+    "main.7873e62b.js.map": "/react-challenge/static/js/main.7873e62b.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.1e564c65.js"
+    "static/js/main.7873e62b.js"
   ]
 }
