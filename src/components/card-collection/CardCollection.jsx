@@ -1,5 +1,4 @@
 import { Card } from "components/card/Card";
-import { cards } from "content";
 
 export const CardCollection = ({items}) =>{
     return (
